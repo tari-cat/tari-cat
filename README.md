@@ -1,16 +1,12 @@
-### Hi there 👋
+## hi hello
+i'm tari! i'm currently working on:
+ - **[EX-XDRiVER](https://github.com/EX-XDRiVER)** as the Lead Programmer!
+ - **[vivid/stasis](https://store.steampowered.com/app/2093940/vividstasis/)** as a Chart Designer!
+ - ..and **[Sightstep](https://www.youtube.com/watch?v=bhtNhBx9XFI)** as a Programmer and Chart Designer!
 
-<!--
-**tari-cat/tari-cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My portfolio is available **[here](https://tari.dance)** at **[tari.dance](https://tari.dance)**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact and Socials
+- **[Twitter](https://twitter.com/tari_cat_)**
+- **[Discord](discord://discord.com/users/725562596836638821)** **[(web)](https://discord.com/users/725562596836638821)**
+- **[Email](mailto:contact@tari.dance)**
