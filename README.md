@@ -8,5 +8,5 @@ My portfolio is available **[here](https://tari.dance)** at **[tari.dance](https
 
 ## Contact and Socials
 - **[Twitter](https://twitter.com/tari_cat_)**
-- **[Discord](discord://discord.com/users/725562596836638821)** **[(web)](https://discord.com/users/725562596836638821)**
+- Discord: **tari.dance** **[(web)](https://discord.com/users/725562596836638821)**
 - **[Email](mailto:contact@tari.dance)**
