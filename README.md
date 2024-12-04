@@ -9,6 +9,6 @@ i worked on:
 My portfolio is available **[here](https://tari.dance)** at **[tari.dance](https://tari.dance)**.
 
 ## Contact and Socials
-- **[Twitter](https://twitter.com/tari_cat_)**
+- **[Bluesky](https://bsky.app/profile/tari.dance)**
 - Discord: **tari.dance** **[(web)](https://discord.com/users/725562596836638821)**
 - **[Email](mailto:contact@tari.dance)**
