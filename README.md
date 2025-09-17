@@ -10,5 +10,5 @@ My portfolio is available **[here](https://tari.dance)** at **[tari.dance](https
 
 ## Contact and Socials
 - **[Bluesky](https://bsky.app/profile/tari.dance)**
-- Discord: **tari.dance** **[(web)](https://discord.com/users/725562596836638821)**
+- Discord: **tari.dance**
 - **[Email](mailto:contact@tari.dance)**
